@@ -707,3 +707,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.07-19.16.21:955][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.12.07-19.16.21:984][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.12.07-19.18.12:501][289]LogDerivedDataCache: C:/Users/Wolf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.027 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.07-19.20.56:656][980]Cmd: EDIT COPY
+[2022.12.07-19.20.56:946][  9]Cmd: EDIT PASTE
+[2022.12.07-19.22.03:547][163]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Chair_0.StaticMeshComponent0)
+[2022.12.07-19.22.03:675][177]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Chair_0.StaticMeshComponent0)
+[2022.12.07-19.22.03:915][202]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Chair_0.StaticMeshComponent0)
+[2022.12.07-19.22.03:991][210]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Chair_0.StaticMeshComponent0)
+[2022.12.07-19.23.11:468][ 66]Cmd: EDIT COPY
+[2022.12.07-19.23.11:689][ 89]Cmd: EDIT PASTE
+[2022.12.07-19.24.03:312][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.07-19.24.03:316][504]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003406 seconds
+[2022.12.07-19.24.03:500][504]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.12.07-19.24.03:500][504]LogSavePackage: Moving '../../../../../GitHubxD/GfG-card-game/GfGcardgame/Saved/Minimal_Default0777F9254367B364F5459483EA831680.tmp' to '../../../../../GitHubxD/GfG-card-game/GfGcardgame/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.12.07-19.24.03:508][504]LogFileHelpers: No new changes to save!
+[2022.12.07-19.24.03:514][504]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.12.07-19.24.03:514][504]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default

@@ -735,3 +735,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.07-18.14.21:888][955]LogEditorActor: Deleted Actor: StaticMeshActor
 [2022.12.07-18.14.21:895][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
 [2022.12.07-18.14.21:895][955]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.12.07-18.14.49:127][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.12.07-18.14.49:139][280]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2
+[2022.12.07-18.14.49:139][280]LogSavePackage: Moving '../../../../../GitHubxD/GfG-card-game/GfGcardgame/Saved/Minimal_Default_Auto2A04954A84BDB337C71880680777914A5.tmp' to '../../../../../GitHubxD/GfG-card-game/GfGcardgame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2022.12.07-18.14.49:142][280]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.019
+[2022.12.07-18.14.49:142][280]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019

@@ -713,3 +713,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.07-17.53.48:737][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2022.12.07-17.53.48:738][280]LogEditorActor: Deleted 1 Actors (0.021 secs)
 [2022.12.07-17.55.09:042][634]LogDerivedDataCache: C:/Users/Wolf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.035 and deleted 2 file(s) with total size 0 MiB.
+[2022.12.07-18.03.44:803][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.12.07-18.03.44:834][579]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003698 seconds
+[2022.12.07-18.03.44:907][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2022.12.07-18.03.44:907][579]LogSavePackage: Moving '../../../../../GitHubxD/GfG-card-game/GfGcardgame/Saved/Minimal_Default_Auto1486BF9C24659F9673C3F4584EF514DAE.tmp' to '../../../../../GitHubxD/GfG-card-game/GfGcardgame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.12.07-18.03.44:909][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.112
+[2022.12.07-18.03.44:909][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.112

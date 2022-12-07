@@ -719,3 +719,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.07-18.03.44:907][579]LogSavePackage: Moving '../../../../../GitHubxD/GfG-card-game/GfGcardgame/Saved/Minimal_Default_Auto1486BF9C24659F9673C3F4584EF514DAE.tmp' to '../../../../../GitHubxD/GfG-card-game/GfGcardgame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
 [2022.12.07-18.03.44:909][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.112
 [2022.12.07-18.03.44:909][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.112
+[2022.12.07-18.07.40:293][810]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Reproduktory (Realtek(R) Audio), InstanceID=1
+[2022.12.07-18.07.40:293][810]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20156
+[2022.12.07-18.07.40:631][810]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6012c780-1397-4446-83f5-4cf34c2ce3bb}, Name=Reproduktory (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.75
+[2022.12.07-18.07.40:631][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.07-18.07.40:635][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
